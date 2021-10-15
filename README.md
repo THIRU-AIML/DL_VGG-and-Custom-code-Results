@@ -1,1 +1,1 @@
-# Ineuron_practice
+# DS_practice
